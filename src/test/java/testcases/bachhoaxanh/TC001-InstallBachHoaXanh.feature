@@ -8,4 +8,6 @@ Feature:
     # Open AppStore, download Bach Hoa Xanh application
     * call homePage.downloadApp {"installApplication": '#(appName)'}
 
+    # comment comment comment comment
+
 
