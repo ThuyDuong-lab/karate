@@ -6,6 +6,8 @@ Feature:
 
   Scenario:
     # Open AppStore, download Bach Hoa Xanh application
-    * call homePage.downloadApp {"installApplication": '#(appName)'}
+    * call homePage.downloadApp {"installApplication": '#(appName3)'}
+    # user3 comment there, user3 comment there, user3 comment there
+
 
 
